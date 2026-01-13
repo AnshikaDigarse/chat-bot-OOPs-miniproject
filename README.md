@@ -48,7 +48,6 @@ Chat-bot-Mini-Project/
 2. Open a terminal in the project root folder
 3. Run the following command:
 
-```bash
 python main.py
 
 
